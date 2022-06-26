@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb07dd17-53bc-4b57-add3-e636109620e1" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/postgresql.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_1_102200265_TranDinhMinhKhoa.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/De_1_102200265_TranDinhMinhKhoa.java" afterDir="false" />
+    <list default="true" id="eb07dd17-53bc-4b57-add3-e636109620e1" name="Changes" comment="AI 10 điểm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +38,6 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -52,7 +46,8 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propGUI"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -77,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656252959356</updated>
-      <workItem from="1656252960841" duration="3317000" />
+      <workItem from="1656252960841" duration="3558000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1656254445674</created>
@@ -86,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656254445674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AI 10 điểm">
+      <created>1656256366623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656256366623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +124,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="AI 10 điểm" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI 10 điểm" />
   </component>
 </project>
